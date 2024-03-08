@@ -1,0 +1,4 @@
+moneyplease	Extra Money
+moneybigtimeplease	Gain $200
+imtoolazytogrindexp	Gain 50 EXP
+flyhigh	Enable Noclip Mode
